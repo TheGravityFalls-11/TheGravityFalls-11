@@ -1,39 +1,21 @@
 <h1 align="center">Hi, I’m Aastha 👋</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aasthahotwani1811@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 <h3 align="center">
-AI/ML Engineer & Full-Stack Developer building intelligent, secure, real-world systems
+AI/ML Engineer & Full-Stack Developer building intelligent, real-world systems
 </h3>
 
 <p align="center">
 🎓 B.Tech CSE (AIML) • 🤖 AI/ML • 🧠 LLMs • 🌐 Full-Stack
 </p>
-
----
-
-## 🚀 About Me
-I am a Computer Science undergraduate specializing in **AI & Machine Learning**, with hands-on experience building **end-to-end intelligent systems** — from data pipelines and ML models to full-stack deployment.
-
-I enjoy working at the intersection of **AI, LLMs, and web systems**, and I actively build projects that solve **real-world problems** like fraud detection, recommendation systems, and intelligent analytics.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TheGravityFalls-11&show_icons=true&theme=dark" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGravityFalls-11&layout=compact&theme=dark" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheGravityFalls-11&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheGravityFalls-11&theme=github_dark&utcOffset=5.5"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheGravityFalls-11&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheGravityFalls-11&theme=github_dark"/>
-</p>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheGravityFalls-11&theme=github_dark"/>
 
 ---
 
@@ -110,6 +92,27 @@ I enjoy working at the intersection of **AI, LLMs, and web systems**, and I acti
 
 ---
 
+## 📊 GitHub Statistics
+
 <p align="center">
-✨ Always learning. Always building. Always improving. ✨
+<img src="https://github-readme-stats.vercel.app/api?username=TheGravityFalls-11&show_icons=true&theme=dark" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGravityFalls-11&layout=compact&theme=dark" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheGravityFalls-11&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheGravityFalls-11&theme=github_dark&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheGravityFalls-11&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheGravityFalls-11&theme=github_dark"/>
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheGravityFalls-11&theme=github_dark"/>
+
+---
+
+<p align="center">
+✨ Always building intelligent systems. ✨
 </p>
