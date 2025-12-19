@@ -9,5 +9,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheGravityFalls-11&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheGravityFalls-11&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheGravityFalls-11&theme=github_dark)## 📊 GitHub Statistics
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheGravityFalls-11&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheGravityFalls-11&theme=github_dark&utcOffset=5.5)
+
+
 
