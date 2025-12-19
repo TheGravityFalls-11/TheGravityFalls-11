@@ -14,5 +14,96 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheGravityFalls-11&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheGravityFalls-11&theme=github_dark&utcOffset=5.5)
 
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI / ML & Deep Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
+
+</td>
+<td width="50%">
+
+### 🌐 Web Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗄️ Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+</td>
+<td width="50%">
+
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧰 Developer Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,vscode" />
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%">
+
+### 📚 Core CS Fundamentals
+<p>
+Data Structures & Algorithms<br/>
+Object-Oriented Programming<br/>
+DBMS & Operating Systems
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Design & Others
+<p align="left">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%">
+
+### 🤝 Soft Skills
+<p>
+Teamwork • Leadership • Management<br/>
+Decision-Making • Creativity
+</p>
+
+</td>
+</tr>
+</table>
+
+
 
 
