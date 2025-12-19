@@ -10,12 +10,25 @@
 </p>
 
 <h3 align="center">
-AI/ML Engineer & Full-Stack Developer building intelligent, real-world systems
+AI/ML Engineer & Full-Stack Developer building intelligent systems from data to deployment
 </h3>
 
 <p align="center">
-🎓 B.Tech CSE (AIML) • 🤖 AI/ML • 🧠 LLMs • 🌐 Full-Stack
+🎓 B.Tech CSE (AIML) • 🤖 Machine Learning & Neural Networks • 🧠 LLMs • 🌐 Full-Stack
 </p>
+
+<p align="center">
+<em>
+I don’t just train models — I design complete AI systems that solve real-world problems.
+</em>
+</p>
+
+---
+
+## 🧠 What I Specialize In
+- Designing and training **Neural Networks** for vision, text, and tabular data  
+- Applying **ML + LLMs** to real-world problems (fraud, recommendations, insights)  
+- Building **end-to-end systems**: data → model → API → UI  
 
 ---
 
@@ -92,19 +105,17 @@ AI/ML Engineer & Full-Stack Developer building intelligent, real-world systems
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity & Impact
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TheGravityFalls-11&show_icons=true&theme=dark" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGravityFalls-11&layout=compact&theme=dark" height="165"/>
 </p>
 
-
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheGravityFalls-11&theme=github_dark"/>
 
 ---
 
 <p align="center">
-✨ Always building intelligent systems. ✨
+✨ Curiosity-driven. System-focused. Always building. ✨
 </p>
