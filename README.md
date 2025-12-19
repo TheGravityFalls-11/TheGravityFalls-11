@@ -33,15 +33,26 @@
 </td>
 <td width="50%">
 
-### 🌐 Web Development
+### 🧠 LLMs & GenAI
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Groq%20API-FF4F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 </td>
 </tr>
 
 <tr>
+<td width="50%">
+
+### 🌐 Web Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+</p>
+
+</td>
 <td width="50%">
 
 ### 🗄️ Databases
@@ -50,6 +61,9 @@
 </p>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 💻 Programming Languages
@@ -58,9 +72,6 @@
 </p>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🧰 Developer Tools
@@ -71,39 +82,5 @@
 </p>
 
 </td>
-<td width="50%">
-
-### 📚 Core CS Fundamentals
-<p>
-Data Structures & Algorithms<br/>
-Object-Oriented Programming<br/>
-DBMS & Operating Systems
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎨 Design & Others
-<p align="left">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%">
-
-### 🤝 Soft Skills
-<p>
-Teamwork • Leadership • Management<br/>
-Decision-Making • Creativity
-</p>
-
-</td>
 </tr>
 </table>
-
-
-
-
