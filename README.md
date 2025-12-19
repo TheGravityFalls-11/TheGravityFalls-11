@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Aastha 👋</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAM](https://www.linkedin.com/in/aasthahotwani18/)E" target="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:aasthahotwani1811@gmail.com">
